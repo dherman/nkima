@@ -1,0 +1,33 @@
+{
+  "name": "nkima",
+  "version": "0.0.1",
+  "description": "Tree walking helper for AST's supporting the Mozilla Parser API.",
+  "keywords": [
+    "ast",
+    "esprima",
+    "analysis"
+  ],
+  "homepage": "https://github.com/dherman/nkima",
+  "author": "Dave Herman <dherman@mozilla.com> (https://github.com/dherman)",
+  "bugs": {
+    "email": "dherman@mozilla.com",
+    "url": "https://github.com/dherman/nkima/issues"
+  },
+  "license": "MIT",
+  "main": "lib/nkima.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dherman/nkima.git"
+  },
+  "engine": {
+    "node": ">=0.6.17"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
